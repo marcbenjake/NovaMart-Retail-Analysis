@@ -1,1 +1,1 @@
-# end-to-end-retail-analytics
+# NovaMart Retail Analytics
