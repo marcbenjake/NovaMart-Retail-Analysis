@@ -16,7 +16,7 @@ FROM novamart_orders
 -- ============================================================
 -- Q2  Find customers who have never placed an order
 
--- Finding: 169 customers have naver placed an order
+-- Finding: 169 customers have never placed an order
 -- ============================================================
 SELECT
 	c.customer_id,
@@ -45,7 +45,7 @@ HAVING COUNT(*) > 1
 -- ============================================================
 -- Q4  Detect Orders Where Discount Exceeds Order Total
 
--- Finding: 174 records may have accidentally been recorded as having more discounts than order total.
+-- Finding: 174 records may have accidentally been recorded as having more discounts than the order total.
 -- ============================================================
 SELECT
 	order_id,
@@ -85,7 +85,7 @@ WHERE estimated_clv <= 0
 -- ============================================================
 -- Q7 Flag Campaigns Where Spend Exceeds Budget.
 
--- Finding: FOUR campaigns have overspent its budget
+-- Finding: FOUR campaigns have overspent their budget
 -- ============================================================
 SELECT
 	campaign_id,
