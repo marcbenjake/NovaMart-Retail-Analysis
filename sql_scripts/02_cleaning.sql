@@ -72,13 +72,7 @@ SELECT
 		WHEN TRIM(province) IN ('Saskatchewan') THEN 'SK'
 		ELSE TRIM(province)
 	END AS province,
-	CASE
-		WHEN TRIM(gender) IN ('-', 'n/a', 'N/A') THEN NULL
-		WHEN TRIM(gender) IN ('F', 'Woman') THEN 'Female'
-		WHEN TRIM(gender) IN ('M', 'Man') THEN 'Male'
-		WHEN TRIM(gender) IN ('NB', 'Non Binary', 'Non-binary') THEN 'Non-Binary'
-		ELSE TRIM(gender)
-	END AS gender,
+	TRIM(city) AS city,
 	CASE
 		WHEN TRIM(acquisition_channel) IN ('Aff.') THEN 'Affiliate'
 		WHEN TRIM(acquisition_channel) IN ('direct', 'Direct Traffic') THEN 'Direct'
@@ -89,14 +83,20 @@ SELECT
 		WHEN TRIM(acquisition_channel) IN ('Social') THEN 'Social Media'
 		ELSE TRIM(acquisition_channel)
 	END AS acquisition_channel,
+	TRIM(customer_segment) AS customer_segment,
 	CASE
-		WHEN age < 0 OR age > 100 THEN NULL
-		ELSE age
+		WHEN age < 0 OR age > 100 THEN NULL	ELSE age
 	END AS age,
+	CASE
+		WHEN TRIM(gender) IN ('-', 'n/a', 'N/A') THEN NULL
+		WHEN TRIM(gender) IN ('F', 'Woman') THEN 'Female'
+		WHEN TRIM(gender) IN ('M', 'Man') THEN 'Male'
+		WHEN TRIM(gender) IN ('NB', 'Non Binary', 'Non-binary') THEN 'Non-Binary'
+		ELSE TRIM(gender)
+	END AS gender,
 	loyalty_member,
 	CASE
-		WHEN estimated_clv < 0 THEN NULL
-		ELSE estimated_clv
+		WHEN estimated_clv < 0 THEN NULL ELSE estimated_clv
 	END AS estimated_clv
 INTO novamart_customers_clean											-- Cleaned and transformed table inserted into new table
 FROM deduplicated
