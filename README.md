@@ -196,14 +196,4 @@ Applied DENSE_RANK() OVER(PARTITION BY category) to rank products within each ca
 
 ---
 
-## How to Run This Project
-
-1. Clone or download this repository
-2. Import the four raw CSV files from `/data/raw/` into SQL Server using the Import Wizard
-3. Run the SQL scripts in order from `/sql/` starting with `01_audit.sql`
-4. Open `novamart_dashboard.twbx` in Tableau Desktop to explore the dashboards
-5. Or view the live dashboard at the Tableau Public link above
-
----
-
 *NovaMart is a fictional company created for portfolio purposes. All data is synthetic.*
