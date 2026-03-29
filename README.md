@@ -130,13 +130,13 @@ NovaMart-Retail-Analysis/
 ## Dashboard Preview
 
 ### Dashboard 1 -- Sales Performance
-![Sales Dashboard](docs/dashboard1_sales.png)
+![Sales Dashboard](docs/dashboard1_sales.jpg)
 
 ### Dashboard 2 -- Customer Insights
-![Customer Dashboard](docs/dashboard2_customers.png)
+![Customer Dashboard](docs/dashboard2_customers.jpg)
 
 ### Dashboard 3 -- Marketing Performance
-![Marketing Dashboard](docs/dashboard3_marketing.png)
+![Marketing Dashboard](docs/dashboard3_marketing.jpg)
 
 🔗 **[Explore the live interactive dashboard here](https://public.tableau.com/app/profile/marcus.jacob/viz/NovamartDashboard/Dashboard3)**
 
@@ -146,7 +146,7 @@ NovaMart-Retail-Analysis/
 
 ### Revenue and Growth
 - NovaMart achieved **12x revenue growth** from 2021 to 2025, growing from $19,260 to $234,961 in annual completed order revenue, driven primarily by a 15x increase in order volume
-- Average order value has **declined steadily** from $125.89 in 2021 to $100.41 in 2025, signaling a shift toward budget-conscious customers as the business scales
+- Average order value has **declined steadily** from $125.89 in 2021 to $100.41 in 2025, signalling a shift toward budget-conscious customers as the business scales
 - NovaMart's revenue volatility has decreased significantly from 2021 to 2025, reflecting a maturing business with increasingly predictable seasonal patterns
 
 ### Seasonality
@@ -160,7 +160,7 @@ NovaMart-Retail-Analysis/
 ### Customer Segments
 - **Loyal customers are NovaMart's most strategically valuable segment** despite not having the highest AOV, driven by a 48% higher purchase frequency than Premium customers
 - **Nearly half of all customers (46.98%) never return** after their first purchase, representing a significant retention opportunity and a meaningful acquisition investment that is not converting to long-term value
-- Regular customers are the silent revenue engine, collectively matching Loyal segment revenue while representing the largest share of the customer base
+- Regular customers are the silent revenue engine, collectively matching the Loyal segment revenue while representing the largest share of the customer base
 
 ### Lifetime Value
 - **Every customer segment is underperforming against estimated CLV** -- Premium customers are realizing only 41% of their predicted lifetime value
