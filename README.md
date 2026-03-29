@@ -206,17 +206,4 @@ Applied DENSE_RANK() OVER(PARTITION BY category) to rank products within each ca
 
 ---
 
-## About Me
-
-I am a data analyst specializing in retail analytics and customer insights, currently seeking entry-level data analyst roles in the Toronto and Greater Ontario area.
-
-**Tools:** SQL Server | Excel | Tableau
-
-**Connect:**
-- 🔗 [GitHub](https://github.com/marcbenjake)
-- 🔗 [Portfolio](https://marcus-jacob.my.canva.site/data-portfolio)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/marcus-jacob)
-
----
-
 *NovaMart is a fictional company created for portfolio purposes. All data is synthetic.*
