@@ -1,0 +1,301 @@
+product_id,product_name,category,unit_price,cost_price,brand,is_private_label,in_stock,avg_rating,review_count
+38496,Organic Oats 1kg,Groceries,22.26,12.43,TrueValue,0,1,4.7,3234.0
+70869,Whole Milk 2L,Groceries,17.27,7.92,TrueValue,0,1,4.2,3904.0
+93315,Free Range Eggs 12pk,Groceries,23.65,11.68,NorthPeak,1,1,3.0,2657.0
+69733,Sourdough Bread,Groceries,33.56,17.93,CoreLine,0,1,3.5,446.0
+16795,Greek Yogurt 500g,Groceries,16.62,8.87,NorthPeak,0,1,,960.0
+73909,Cheddar Cheese 400g,Groceries,16.62,7.37,TrueValue,0,1,4.7,3073.0
+17633,Chicken Breast 1kg,Groceries,34.32,21.8,NorthPeak,1,1,3.9,103.0
+58486,Atlantic Salmon Fillet,Groceries,24.81,11.08,CoreLine,0,1,4.1,0.0
+13704,Brown Rice 2kg,Groceries,15.13,9.61,PureLife,0,1,4.7,1220.0
+68189,Pasta 500g,Groceries,22.67,11.87,NovaBrand,0,1,3.8,2880.0
+13294,Olive Oil 500ml,Groceries,15.16,9.25,TrueValue,1,1,3.9,997.0
+91489,Orange Juice 1.89L,Groceries,15.15,7.11,NovaBrand,1,1,3.9,2716.0
+58631,Baby Spinach 150g,Groceries,20.1,10.51,NorthPeak,1,1,4.7,3844.0
+94582,Roma Tomatoes 1kg,Groceries,8.49,4.1,TrueValue,0,1,4.2,2335.0
+12616,Frozen Peas 750g,Groceries,9.15,4.33,NovaBrand,0,1,4.3,3778.0
+93684,Instant Coffee 200g,Groceries,14.57,6.28,TrueValue,0,1,,4188.0
+62714,Black Tea 80 bags,Groceries,12.17,5.06,DailyGo,0,1,,3842.0
+27058,Almond Butter 500g,Groceries,20.69,10.05,DailyGo,0,0,3.3,1775.0
+60440,Canned Tuna 4pk,Groceries,12.69,6.17,DailyGo,0,1,3.8,3529.0
+97651,Dark Chocolate 85%,Groceries,10.37,6.73,TrueValue,0,0,3.4,1919.0
+38483,Organic Oats 1kg v20,Groceries,32.8,11.6,CoreLine,0,1,3.9,2657.0
+34314,Whole Milk 2L v21,Groceries,16.67,7.12,CoreLine,0,0,3.0,1592.0
+68167,Free Range Eggs 12pk v22,Groceries,18.75,11.36,CoreLine,0,1,4.7,719.0
+63040,Sourdough Bread v23,Groceries,10.32,3.82,NorthPeak,0,1,4.0,541.0
+33501,Greek Yogurt 500g v24,Groceries,14.68,6.36,DailyGo,1,1,,3323.0
+43471,Cheddar Cheese 400g v25,Groceries,19.08,8.44,DailyGo,0,1,4.6,975.0
+96084,Chicken Breast 1kg v26,Groceries,11.52,6.25,TrueValue,1,1,3.1,2281.0
+36497,Atlantic Salmon Fillet v27,Groceries,21.21,11.69,EssentialCo,0,1,4.3,3061.0
+27039,Brown Rice 2kg v28,Groceries,14.35,8.92,TrueValue,0,1,4.1,1824.0
+66021,Pasta 500g v29,Groceries,16.24,6.26,PureLife,0,1,3.2,610.0
+53871,Olive Oil 500ml v30,Groceries,14.35,8.08,TrueValue,0,1,3.1,3605.0
+69376,Orange Juice 1.89L v31,Groceries,35.0,18.49,NorthPeak,0,1,4.2,
+30043,Baby Spinach 150g v32,Groceries,18.15,10.55,PureLife,0,1,3.2,1824.0
+10434,Roma Tomatoes 1kg v33,Groceries,11.95,6.39,EssentialCo,0,1,3.2,595.0
+75015,Frozen Peas 750g v34,Groceries,25.36,13.61,PureLife,1,1,4.1,445.0
+89477,Instant Coffee 200g v35,Groceries,11.2,3.99,DailyGo,0,1,4.4,3463.0
+78848,Black Tea 80 bags v36,Groceries,19.84,11.87,DailyGo,1,0,3.6,661.0
+16891,Almond Butter 500g v37,Groceries,8.33,3.99,PureLife,0,1,3.2,3906.0
+43467,Canned Tuna 4pk v38,Groceries,10.73,6.2,PureLife,1,1,3.3,16.0
+74367,Dark Chocolate 85% v39,Groceries,19.75,9.34,CoreLine,0,1,3.1,2823.0
+15255,Organic Oats 1kg v40,Groceries,24.52,12.66,NorthPeak,0,1,4.2,3929.0
+73080,Whole Milk 2L v41,Groceries,19.54,9.68,PureLife,0,1,4.4,1447.0
+77295,Free Range Eggs 12pk v42,Groceries,17.42,7.59,NovaBrand,1,1,3.2,528.0
+91462,Sourdough Bread v43,Groceries,16.18,9.29,DailyGo,0,1,3.7,3565.0
+93989,Greek Yogurt 500g v44,Groceries,10.1,4.07,EssentialCo,0,1,4.3,3835.0
+41669,Cheddar Cheese 400g v45,Groceries,13.68,6.51,PureLife,0,1,4.2,2836.0
+67793,Chicken Breast 1kg v46,Groceries,15.18,9.25,EssentialCo,1,1,4.2,310.0
+89202,Atlantic Salmon Fillet v47,Groceries,27.86,10.44,EssentialCo,0,1,3.5,2149.0
+77779,Brown Rice 2kg v48,Groceries,20.94,13.19,CoreLine,1,1,4.8,3983.0
+75373,Pasta 500g v49,Groceries,9.02,5.04,TrueValue,1,1,3.6,1355.0
+74832,Olive Oil 500ml v50,Groceries,20.78,9.91,EssentialCo,1,1,3.7,3037.0
+96974,Orange Juice 1.89L v51,Groceries,15.64,6.71,PureLife,0,1,3.4,1974.0
+53097,Baby Spinach 150g v52,Groceries,13.92,7.05,NovaBrand,1,1,4.7,3909.0
+31375,Roma Tomatoes 1kg v53,Groceries,23.31,10.99,NorthPeak,0,1,3.7,840.0
+95428,Frozen Peas 750g v54,Groceries,27.57,11.39,DailyGo,0,1,3.7,2035.0
+35010,Instant Coffee 200g v55,Groceries,26.49,10.52,EssentialCo,0,1,4.5,4054.0
+91306,Black Tea 80 bags v56,Groceries,13.05,5.52,TrueValue,0,1,3.6,1805.0
+87190,Almond Butter 500g v57,Groceries,16.13,6.36,EssentialCo,0,1,4.5,2862.0
+66971,Canned Tuna 4pk v58,Groceries,20.84,12.28,TrueValue,0,0,3.7,3581.0
+35580,Dark Chocolate 85% v59,Groceries,26.96,10.78,NovaBrand,0,0,3.7,100.0
+60961,Organic Oats 1kg v60,Groceries,15.07,7.17,NorthPeak,0,1,3.7,362.0
+84149,Whole Milk 2L v61,Groceries,16.94,11.01,NorthPeak,0,1,4.8,341.0
+24265,Free Range Eggs 12pk v62,Groceries,11.72,5.78,PureLife,0,1,3.4,2845.0
+78049,Sourdough Bread v63,Groceries,11.31,5.73,PureLife,1,1,4.5,3701.0
+49392,Greek Yogurt 500g v64,Groceries,25.26,9.02,TrueValue,0,1,4.3,4150.0
+57441,Cheddar Cheese 400g v65,Groceries,31.4,19.96,PureLife,1,1,3.1,2884.0
+46321,Chicken Breast 1kg v66,Groceries,17.73,9.07,CoreLine,0,1,,677.0
+45088,Atlantic Salmon Fillet v67,Groceries,27.26,17.49,TrueValue,0,1,3.2,1621.0
+24107,Brown Rice 2kg v68,Groceries,21.09,12.76,PureLife,0,1,5.0,1761.0
+98979,Pasta 500g v69,Groceries,14.1,8.47,CoreLine,1,0,3.6,3635.0
+86838,Olive Oil 500ml v70,Groceries,21.09,10.4,NorthPeak,0,1,4.1,3452.0
+81479,Orange Juice 1.89L v71,Groceries,33.76,13.96,TrueValue,1,0,5.0,3871.0
+98293,Baby Spinach 150g v72,Groceries,17.99,6.34,NovaBrand,0,1,4.7,2033.0
+39429,Roma Tomatoes 1kg v73,Groceries,34.12,17.12,DailyGo,0,1,5.0,
+76445,Frozen Peas 750g v74,Groceries,6.4,3.59,PureLife,0,1,4.3,3197.0
+57490,Instant Coffee 200g v75,Groceries,25.35,14.96,NorthPeak,0,1,4.7,3987.0
+69293,Black Tea 80 bags v76,Groceries,18.9,11.11,TrueValue,0,1,3.2,2684.0
+84540,Almond Butter 500g v77,Groceries,16.19,10.17,EssentialCo,0,1,4.1,1683.0
+30134,Canned Tuna 4pk v78,Groceries,18.93,11.08,CoreLine,0,1,3.5,1077.0
+79115,Dark Chocolate 85% v79,Groceries,8.24,4.34,PureLife,0,1,4.0,3666.0
+31702,Organic Oats 1kg v80,Groceries,16.71,6.23,PureLife,0,1,4.8,3543.0
+62398,Whole Milk 2L v81,Groceries,21.05,10.97,CoreLine,0,1,3.5,608.0
+29242,Free Range Eggs 12pk v82,Groceries,32.96,11.9,TrueValue,0,1,4.0,1244.0
+89258,Sourdough Bread v83,Groceries,14.83,7.93,NovaBrand,0,0,4.0,3094.0
+12340,Greek Yogurt 500g v84,Groceries,13.21,4.68,PureLife,1,1,4.4,866.0
+23186,Cheddar Cheese 400g v85,Groceries,14.93,8.59,EssentialCo,0,1,3.0,3085.0
+64972,Chicken Breast 1kg v86,Groceries,26.32,13.94,PureLife,0,1,4.8,2588.0
+56124,Atlantic Salmon Fillet v87,Groceries,20.81,11.2,PureLife,0,1,,1755.0
+23717,Brown Rice 2kg v88,Groceries,14.77,6.58,DailyGo,0,1,4.4,13.0
+51376,Pasta 500g v89,Groceries,22.41,12.4,DailyGo,0,1,4.0,3142.0
+89072,Laundry Detergent Pods 42ct,Household,44.18,25.57,DailyGo,1,0,3.0,814.0
+85666,Dish Soap 900ml,Household,62.61,27.22,PureLife,1,0,4.4,210.0
+51111,All-Purpose Cleaner Spray,Household,32.09,13.59,TrueValue,0,1,3.7,4141.0
+31750,Paper Towels 6 Rolls,Household,37.28,16.25,CoreLine,0,1,4.7,1100.0
+73133,Toilet Paper 24 Rolls,Household,36.33,21.21,CoreLine,1,1,4.6,4049.0
+47232,Garbage Bags 40ct,Household,23.67,15.34,CoreLine,0,1,4.6,1832.0
+68501,Sponge 6pk,Household,47.84,27.88,NovaBrand,0,1,4.8,449.0
+81223,Broom & Dustpan Set,Household,47.18,27.85,EssentialCo,0,1,3.5,3841.0
+74766,Mop & Bucket Set,Household,42.59,22.19,TrueValue,0,1,4.0,2141.0
+22957,Air Freshener 3pk,Household,38.69,15.59,DailyGo,1,1,3.1,3870.0
+57332,Candle Set Lavender,Household,24.13,10.47,EssentialCo,0,1,4.4,1871.0
+94250,Storage Bins 3pk,Household,35.92,13.7,EssentialCo,0,1,4.4,2532.0
+53449,Hangers 50ct,Household,37.06,17.28,EssentialCo,1,1,3.2,591.0
+39344,LED Bulbs 4pk,Household,30.83,15.32,NovaBrand,0,1,3.6,2002.0
+35305,Laundry Detergent Pods 42ct v14,Household,39.84,24.33,TrueValue,0,1,4.1,650.0
+36840,Dish Soap 900ml v15,Household,49.96,25.48,DailyGo,0,1,3.4,2143.0
+19263,All-Purpose Cleaner Spray v16,Household,80.0,30.79,NorthPeak,1,1,,732.0
+94882,Paper Towels 6 Rolls v17,Household,45.57,23.51,DailyGo,1,1,3.5,348.0
+68454,Toilet Paper 24 Rolls v18,Household,47.11,16.75,CoreLine,1,1,4.7,2653.0
+85252,Garbage Bags 40ct v19,Household,41.25,15.23,TrueValue,0,1,3.4,
+39847,Sponge 6pk v20,Household,19.73,7.35,PureLife,0,1,3.1,745.0
+19336,Broom & Dustpan Set v21,Household,42.05,25.22,NorthPeak,1,1,4.5,3179.0
+97181,Mop & Bucket Set v22,Household,43.54,23.29,NovaBrand,0,1,3.8,3812.0
+37939,Air Freshener 3pk v23,Household,80.0,39.89,TrueValue,1,1,3.6,397.0
+94036,Candle Set Lavender v24,Household,39.35,21.99,DailyGo,0,1,4.5,1676.0
+49158,Storage Bins 3pk v25,Household,47.95,26.71,NorthPeak,1,0,3.7,917.0
+74894,Hangers 50ct v26,Household,41.91,26.67,PureLife,1,1,4.9,
+53184,LED Bulbs 4pk v27,Household,26.63,11.82,CoreLine,0,1,3.2,2000.0
+60190,Laundry Detergent Pods 42ct v28,Household,67.13,24.21,NorthPeak,0,1,4.9,823.0
+18332,Dish Soap 900ml v29,Household,57.41,23.66,PureLife,1,1,3.9,451.0
+90774,All-Purpose Cleaner Spray v30,Household,58.32,35.55,DailyGo,0,1,3.3,0.0
+65446,Paper Towels 6 Rolls v31,Household,29.54,14.57,NovaBrand,0,1,4.1,3437.0
+22421,Toilet Paper 24 Rolls v32,Household,74.49,35.34,EssentialCo,1,1,4.6,1845.0
+70921,Garbage Bags 40ct v33,Household,24.26,13.3,DailyGo,0,1,3.6,1812.0
+59736,Sponge 6pk v34,Household,53.74,28.56,DailyGo,0,1,,226.0
+57287,Broom & Dustpan Set v35,Household,80.0,47.09,NorthPeak,1,1,3.8,2953.0
+92634,Mop & Bucket Set v36,Household,28.6,10.39,PureLife,0,1,4.3,2195.0
+16630,Air Freshener 3pk v37,Household,33.89,15.84,NovaBrand,0,1,3.5,2094.0
+28677,Candle Set Lavender v38,Household,44.23,25.68,NorthPeak,0,1,4.4,2379.0
+24753,Storage Bins 3pk v39,Household,34.75,16.21,PureLife,0,1,3.2,864.0
+12673,Hangers 50ct v40,Household,22.86,13.23,DailyGo,1,1,3.0,3074.0
+15680,LED Bulbs 4pk v41,Household,43.68,28.1,NovaBrand,0,1,4.2,3325.0
+32482,Laundry Detergent Pods 42ct v42,Household,27.79,15.93,CoreLine,0,1,4.5,264.0
+75367,Dish Soap 900ml v43,Household,51.36,25.01,NorthPeak,1,0,4.2,1323.0
+79251,All-Purpose Cleaner Spray v44,Household,29.42,13.74,TrueValue,0,1,3.0,3286.0
+65594,Paper Towels 6 Rolls v45,Household,79.0,29.88,TrueValue,0,1,4.3,2324.0
+50329,Toilet Paper 24 Rolls v46,Household,31.07,20.12,PureLife,0,1,3.8,4088.0
+96889,Garbage Bags 40ct v47,Household,37.36,21.87,EssentialCo,1,0,,3982.0
+90059,Sponge 6pk v48,Household,58.85,22.02,NovaBrand,0,1,4.3,1863.0
+83800,Broom & Dustpan Set v49,Household,25.98,11.31,TrueValue,0,1,3.6,1168.0
+56763,Mop & Bucket Set v50,Household,46.55,26.38,PureLife,0,1,4.4,3586.0
+78393,Air Freshener 3pk v51,Household,71.69,45.26,NorthPeak,1,1,3.7,3016.0
+97860,Candle Set Lavender v52,Household,22.34,10.2,DailyGo,0,1,4.3,151.0
+70825,Storage Bins 3pk v53,Household,45.76,29.47,PureLife,0,1,3.4,2581.0
+17392,Wireless Earbuds,Electronics,346.73,165.54,NorthPeak,1,1,3.3,2082.0
+10655,USB-C Hub 7-in-1,Electronics,427.23,175.57,PureLife,1,0,4.2,1306.0
+56010,Portable Charger 20000mAh,Electronics,190.53,81.61,NovaBrand,0,1,4.4,2434.0
+25810,Bluetooth Speaker,Electronics,184.27,88.93,EssentialCo,0,1,3.9,920.0
+93427,Smart Plug 4pk,Electronics,385.05,191.6,CoreLine,0,1,3.7,2749.0
+26414,HDMI Cable 2m,Electronics,351.92,157.27,EssentialCo,0,1,3.5,764.0
+52675,Webcam 1080p,Electronics,345.43,167.54,EssentialCo,0,1,4.8,2837.0
+39793,Mechanical Keyboard,Electronics,358.95,157.85,NovaBrand,0,1,3.1,3181.0
+77205,Gaming Mouse,Electronics,238.08,100.99,TrueValue,0,1,4.1,
+95438,Laptop Stand Adjustable,Electronics,342.92,176.99,TrueValue,1,1,4.5,3326.0
+17000,Phone Case Universal,Electronics,351.37,188.17,NovaBrand,1,0,4.5,1340.0
+95152,Screen Protector 2pk,Electronics,234.83,138.65,TrueValue,0,0,3.9,893.0
+65286,Cable Organizer Kit,Electronics,600.0,234.59,NovaBrand,0,0,3.6,2275.0
+35333,Wireless Earbuds v13,Electronics,377.71,213.88,CoreLine,0,1,3.5,2913.0
+22524,USB-C Hub 7-in-1 v14,Electronics,194.04,90.18,NorthPeak,0,1,4.8,474.0
+90486,Portable Charger 20000mAh v15,Electronics,406.35,233.0,NovaBrand,0,0,4.9,2030.0
+10366,Bluetooth Speaker v16,Electronics,211.61,124.49,CoreLine,0,1,3.3,3838.0
+53372,Smart Plug 4pk v17,Electronics,428.13,263.23,DailyGo,0,1,,67.0
+38280,HDMI Cable 2m v18,Electronics,496.73,195.35,NorthPeak,0,1,3.2,1953.0
+75004,Webcam 1080p v19,Electronics,225.05,114.46,CoreLine,1,1,3.3,
+60210,Mechanical Keyboard v20,Electronics,459.42,186.39,PureLife,0,1,3.8,965.0
+88391,Gaming Mouse v21,Electronics,368.6,188.36,NovaBrand,0,1,4.7,289.0
+37288,Laptop Stand Adjustable v22,Electronics,434.17,253.42,EssentialCo,0,1,4.2,349.0
+32361,Phone Case Universal v23,Electronics,600.0,363.04,NorthPeak,1,0,4.0,122.0
+82913,Screen Protector 2pk v24,Electronics,283.28,161.52,DailyGo,1,1,4.1,2371.0
+71297,Cable Organizer Kit v25,Electronics,231.16,82.19,PureLife,0,1,4.6,1165.0
+93059,Wireless Earbuds v26,Electronics,218.94,122.35,CoreLine,1,1,3.2,142.0
+85437,USB-C Hub 7-in-1 v27,Electronics,225.49,101.14,CoreLine,0,1,3.9,2899.0
+99609,Portable Charger 20000mAh v28,Electronics,303.01,194.98,NorthPeak,0,1,3.7,2272.0
+31989,Bluetooth Speaker v29,Electronics,358.19,128.0,TrueValue,0,0,3.2,2534.0
+75265,Classic Crew Neck Tee,Clothing,73.72,31.27,TrueValue,0,1,4.1,2500.0
+47615,Slim Fit Chinos,Clothing,91.88,38.93,CoreLine,0,1,4.5,3052.0
+98542,Fleece Hoodie,Clothing,66.34,-31.44,TrueValue,0,1,3.9,1339.0
+60436,Athletic Shorts,Clothing,118.05,61.26,EssentialCo,0,1,4.4,1789.0
+34550,Yoga Pants,Clothing,59.37,23.76,NorthPeak,0,1,3.1,645.0
+33460,Winter Puffer Jacket,Clothing,120.0,62.56,NovaBrand,0,1,3.6,894.0
+61802,Denim Jacket,Clothing,84.77,53.17,NorthPeak,1,1,3.4,3672.0
+77582,Polo Shirt,Clothing,46.84,21.98,PureLife,0,1,4.2,4153.0
+98647,Running Socks 6pk,Clothing,43.0,20.78,CoreLine,0,1,4.3,3534.0
+90087,Baseball Cap,Clothing,80.05,28.82,NorthPeak,0,1,4.2,3856.0
+72354,Knit Beanie,Clothing,60.36,35.48,EssentialCo,0,1,3.5,1968.0
+51583,Waterproof Rain Jacket,Clothing,87.82,42.37,PureLife,0,1,4.1,551.0
+35484,Compression Leggings,Clothing,79.75,33.12,NovaBrand,0,1,3.6,1543.0
+21645,Work Dress Shirt,Clothing,64.11,29.06,PureLife,0,1,3.9,1170.0
+20054,Classic Crew Neck Tee v14,Clothing,47.04,22.31,NovaBrand,1,0,3.9,1397.0
+55601,Slim Fit Chinos v15,Clothing,36.01,12.88,EssentialCo,0,1,,1875.0
+31432,Fleece Hoodie v16,Clothing,55.2,31.46,NorthPeak,1,1,3.6,2858.0
+97599,Athletic Shorts v17,Clothing,92.96,54.67,TrueValue,0,1,4.9,1589.0
+44098,Yoga Pants v18,Clothing,71.9,26.55,NovaBrand,0,1,3.7,1442.0
+37054,Winter Puffer Jacket v19,Clothing,40.1,18.9,EssentialCo,0,1,3.0,2199.0
+80655,Denim Jacket v20,Clothing,70.73,29.5,EssentialCo,1,1,4.3,
+74487,Polo Shirt v21,Clothing,77.0,38.66,NovaBrand,0,0,3.0,
+27563,Running Socks 6pk v22,Clothing,46.34,28.59,CoreLine,0,0,4.0,309.0
+96026,Baseball Cap v23,Clothing,70.19,40.38,PureLife,1,1,3.8,1512.0
+13445,Knit Beanie v24,Clothing,67.55,34.9,CoreLine,1,1,3.4,3092.0
+68257,Waterproof Rain Jacket v25,Clothing,41.78,15.05,CoreLine,0,1,4.6,1651.0
+52620,Compression Leggings v26,Clothing,76.15,28.44,DailyGo,1,1,3.2,
+68466,Work Dress Shirt v27,Clothing,82.6,51.48,CoreLine,1,1,4.0,56.0
+88982,Classic Crew Neck Tee v28,Clothing,101.79,44.96,NovaBrand,0,1,,1882.0
+35272,Slim Fit Chinos v29,Clothing,100.6,43.58,NovaBrand,0,1,4.0,2089.0
+22717,Fleece Hoodie v30,Clothing,38.04,19.94,PureLife,0,1,4.9,784.0
+50695,Athletic Shorts v31,Clothing,45.36,18.64,EssentialCo,0,1,3.3,1321.0
+95328,Yoga Pants v32,Clothing,81.1,43.85,CoreLine,0,1,4.1,
+49293,Winter Puffer Jacket v33,Clothing,81.06,36.77,EssentialCo,0,1,4.4,2040.0
+42911,Denim Jacket v34,Clothing,81.1,29.22,EssentialCo,1,1,3.1,
+95739,Polo Shirt v35,Clothing,120.0,65.46,EssentialCo,0,1,4.5,3727.0
+89784,Running Socks 6pk v36,Clothing,82.93,39.07,EssentialCo,0,1,5.0,3867.0
+45082,Baseball Cap v37,Clothing,103.95,41.37,PureLife,0,1,3.1,2773.0
+25078,Knit Beanie v38,Clothing,96.67,53.99,EssentialCo,0,1,4.1,1422.0
+87819,Waterproof Rain Jacket v39,Clothing,85.65,43.62,PureLife,1,1,3.4,2694.0
+83988,Compression Leggings v40,Clothing,58.18,36.17,DailyGo,1,1,3.1,1271.0
+59231,Work Dress Shirt v41,Clothing,89.41,57.19,CoreLine,1,1,,789.0
+96476,Daily Moisturizer SPF 30,Health & Beauty,34.87,15.07,DailyGo,0,1,3.5,3454.0
+45411,Vitamin D3 1000IU 90ct,Health & Beauty,43.21,22.77,PureLife,1,0,4.6,350.0
+51362,Omega-3 Fish Oil 60ct,Health & Beauty,39.12,18.84,PureLife,0,1,3.2,
+98936,Shampoo & Conditioner Set,Health & Beauty,49.08,22.19,CoreLine,0,1,4.6,1304.0
+85325,Electric Toothbrush Replacement Heads 4pk,Health & Beauty,90.0,37.74,NovaBrand,0,1,4.1,528.0
+95413,Hand Sanitizer 500ml,Health & Beauty,22.51,12.46,NorthPeak,0,1,3.2,634.0
+60379,Facial Cleanser Gel,Health & Beauty,62.5,-37.79,DailyGo,0,1,3.6,861.0
+33043,Deodorant 2pk,Health & Beauty,24.92,16.14,CoreLine,1,0,3.4,3439.0
+92967,Lip Balm 3pk,Health & Beauty,39.33,15.28,DailyGo,0,1,3.8,1753.0
+44432,Multivitamin 60ct,Health & Beauty,73.43,43.68,DailyGo,0,1,4.4,3929.0
+97704,Protein Powder Vanilla 1kg,Health & Beauty,48.74,30.61,CoreLine,0,1,3.9,3336.0
+36543,Collagen Peptides 200g,Health & Beauty,30.87,11.04,TrueValue,0,1,4.8,2718.0
+82464,Daily Moisturizer SPF 30 v12,Health & Beauty,35.68,19.35,PureLife,1,1,4.7,403.0
+46431,Vitamin D3 1000IU 90ct v13,Health & Beauty,62.34,29.8,CoreLine,0,1,,2056.0
+10831,Omega-3 Fish Oil 60ct v14,Health & Beauty,35.47,19.27,TrueValue,0,1,4.4,3896.0
+85326,Shampoo & Conditioner Set v15,Health & Beauty,51.8,29.65,CoreLine,0,1,,4154.0
+28495,Electric Toothbrush Replacement Heads 4pk v16,Health & Beauty,48.37,20.88,EssentialCo,0,1,4.4,2967.0
+74639,Hand Sanitizer 500ml v17,Health & Beauty,36.6,18.99,PureLife,0,0,4.0,3391.0
+68557,Facial Cleanser Gel v18,Health & Beauty,90.0,33.49,PureLife,0,1,4.4,3602.0
+97141,Deodorant 2pk v19,Health & Beauty,61.21,26.78,DailyGo,0,0,3.4,3091.0
+19759,Lip Balm 3pk v20,Health & Beauty,21.13,7.63,EssentialCo,0,1,3.4,3194.0
+56497,Multivitamin 60ct v21,Health & Beauty,51.18,25.54,NovaBrand,1,0,4.6,1417.0
+69043,Protein Powder Vanilla 1kg v22,Health & Beauty,36.45,19.51,CoreLine,0,1,4.8,3260.0
+39952,Collagen Peptides 200g v23,Health & Beauty,66.8,38.59,PureLife,1,1,4.4,1706.0
+97262,Daily Moisturizer SPF 30 v24,Health & Beauty,34.6,20.04,DailyGo,0,1,4.6,
+93383,Vitamin D3 1000IU 90ct v25,Health & Beauty,45.37,20.02,TrueValue,0,1,3.9,78.0
+64267,Omega-3 Fish Oil 60ct v26,Health & Beauty,58.13,29.28,TrueValue,0,1,3.0,3384.0
+79198,Shampoo & Conditioner Set v27,Health & Beauty,67.16,39.15,NovaBrand,0,1,4.8,25.0
+53438,Electric Toothbrush Replacement Heads 4pk v28,Health & Beauty,29.39,17.93,CoreLine,0,1,4.2,1692.0
+10726,Hand Sanitizer 500ml v29,Health & Beauty,41.55,23.0,EssentialCo,1,1,3.3,3858.0
+94811,Facial Cleanser Gel v30,Health & Beauty,39.28,23.11,DailyGo,0,1,3.1,3305.0
+68287,Deodorant 2pk v31,Health & Beauty,36.58,16.9,NorthPeak,0,1,4.0,1738.0
+17705,Lip Balm 3pk v32,Health & Beauty,90.0,48.63,DailyGo,1,1,4.8,4058.0
+52007,Multivitamin 60ct v33,Health & Beauty,55.85,30.77,CoreLine,1,1,3.1,2763.0
+98330,Protein Powder Vanilla 1kg v34,Health & Beauty,28.69,18.57,TrueValue,1,1,4.5,2325.0
+24392,Collagen Peptides 200g v35,Health & Beauty,68.57,26.38,DailyGo,0,1,4.5,3109.0
+80993,Yoga Mat Non-Slip,Sports & Outdoors,250.0,149.6,TrueValue,0,1,4.7,
+30454,Resistance Bands Set 5,Sports & Outdoors,200.25,81.72,NovaBrand,0,1,4.6,1347.0
+55819,Adjustable Dumbbells 10kg,Sports & Outdoors,72.16,31.6,PureLife,0,1,4.4,748.0
+21622,Jump Rope Speed,Sports & Outdoors,109.17,54.92,NorthPeak,1,1,4.8,
+94713,Foam Roller,Sports & Outdoors,219.94,134.17,TrueValue,0,1,4.6,2153.0
+25543,Hiking Backpack 30L,Sports & Outdoors,99.83,46.72,NovaBrand,0,1,4.5,1479.0
+14000,Water Bottle 1L Insulated,Sports & Outdoors,158.24,75.22,NorthPeak,1,1,4.1,2541.0
+35099,Camping Lantern LED,Sports & Outdoors,180.63,96.17,DailyGo,0,1,3.8,411.0
+21750,Trekking Poles,Sports & Outdoors,91.45,47.01,CoreLine,0,1,4.4,3819.0
+95593,Cycling Gloves,Sports & Outdoors,129.38,74.7,DailyGo,0,1,,160.0
+79632,Yoga Mat Non-Slip v10,Sports & Outdoors,36.24,14.78,EssentialCo,0,1,3.5,862.0
+66958,Resistance Bands Set 5 v11,Sports & Outdoors,87.96,34.43,PureLife,0,0,4.8,3687.0
+69366,Adjustable Dumbbells 10kg v12,Sports & Outdoors,119.77,63.93,CoreLine,1,1,,1706.0
+27115,Jump Rope Speed v13,Sports & Outdoors,80.44,49.37,DailyGo,0,1,3.4,574.0
+12482,Foam Roller v14,Sports & Outdoors,250.0,138.99,NovaBrand,0,1,4.7,2650.0
+72503,Hiking Backpack 30L v15,Sports & Outdoors,74.78,33.58,TrueValue,0,1,4.8,3894.0
+56547,Water Bottle 1L Insulated v16,Sports & Outdoors,111.11,45.07,TrueValue,0,1,4.5,3974.0
+85897,Camping Lantern LED v17,Sports & Outdoors,139.61,54.36,EssentialCo,1,1,4.9,2854.0
+23816,Trekking Poles v18,Sports & Outdoors,235.83,114.15,DailyGo,0,1,3.1,3033.0
+45899,Cycling Gloves v19,Sports & Outdoors,74.61,28.56,CoreLine,1,1,3.8,3730.0
+46414,Yoga Mat Non-Slip v20,Sports & Outdoors,211.0,104.44,TrueValue,0,1,4.6,1652.0
+58927,Resistance Bands Set 5 v21,Sports & Outdoors,133.04,76.23,PureLife,0,1,4.2,3927.0
+64296,Adjustable Dumbbells 10kg v22,Sports & Outdoors,89.48,37.17,NovaBrand,0,1,3.7,3699.0
+66313,Jump Rope Speed v23,Sports & Outdoors,159.4,83.65,NovaBrand,0,1,4.2,2740.0
+20115,LEGO Classic Set,Toys & Games,85.55,36.72,NovaBrand,0,1,4.2,2275.0
+91165,Board Game Strategy,Toys & Games,62.14,38.57,EssentialCo,0,1,,3660.0
+63501,Playing Cards 2pk,Toys & Games,81.24,38.27,NorthPeak,0,1,3.8,3988.0
+62746,Puzzle 1000 Pieces,Toys & Games,67.72,29.18,DailyGo,0,1,4.2,3201.0
+70177,Remote Control Car,Toys & Games,82.67,43.88,NovaBrand,0,1,3.8,644.0
+99954,Stuffed Animal Bear,Toys & Games,102.96,66.52,NorthPeak,1,1,3.6,312.0
+59340,Nerf Blaster,Toys & Games,148.99,85.49,DailyGo,0,1,3.6,2384.0
+11252,Slime Making Kit,Toys & Games,48.15,20.61,NorthPeak,1,1,3.3,2458.0
+22090,Magnetic Drawing Board,Toys & Games,150.0,64.77,PureLife,1,1,3.1,2736.0
+53633,Watercolor Paint Set,Toys & Games,36.18,15.4,CoreLine,0,1,3.6,449.0
+17155,LEGO Classic Set v10,Toys & Games,74.35,36.2,NovaBrand,0,1,3.2,2068.0
+45431,Board Game Strategy v11,Toys & Games,99.96,46.44,NovaBrand,1,1,5.0,253.0
+40748,Playing Cards 2pk v12,Toys & Games,88.4,37.0,TrueValue,0,1,4.4,152.0
+45666,Puzzle 1000 Pieces v13,Toys & Games,61.58,-31.9,PureLife,0,1,3.9,3847.0
+10192,Remote Control Car v14,Toys & Games,72.69,33.25,NovaBrand,1,1,4.2,1420.0
+20639,Ballpoint Pens 12pk,Office Supplies,25.86,16.69,TrueValue,0,1,4.2,3916.0
+10132,Sticky Notes Assorted 8pk,Office Supplies,24.88,13.87,NorthPeak,0,1,4.6,753.0
+34296,Stapler & Staples Set,Office Supplies,44.25,25.62,TrueValue,0,1,3.8,3328.0
+61407,Whiteboard Markers 8pk,Office Supplies,36.34,17.15,TrueValue,0,1,3.8,3307.0
+95727,Desk Organizer,Office Supplies,23.87,14.81,CoreLine,1,1,3.4,977.0
+58763,Notebook A5 Lined 3pk,Office Supplies,45.14,19.07,EssentialCo,1,1,3.3,3451.0
+54848,Scissors,Office Supplies,35.62,15.71,DailyGo,0,1,4.6,2267.0
+69454,Tape Dispenser,Office Supplies,43.6,22.68,TrueValue,1,1,3.8,2203.0
+59609,Ballpoint Pens 12pk v8,Office Supplies,40.52,25.9,CoreLine,1,1,4.1,2756.0
